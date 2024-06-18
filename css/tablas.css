@@ -31,10 +31,11 @@ img{
         max-width: 540px;
     }
     .col{
-        margin: 25px auto 1px auto !important;
+        margin: 25px auto 0px auto !important;
     }
     .img{
         padding-left: 18%;
+      
     }
    
   }
