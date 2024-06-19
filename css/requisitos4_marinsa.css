@@ -8,7 +8,7 @@ body{
 }
 /*Dar espacio al logo y centrar, en pantalla grande */
 img{
-    padding-left: 40% !important;   
+    padding-left: 40.5% !important;   
 }
 /*Centrar texto y dar margen*/
 h2, h5{
@@ -16,14 +16,16 @@ h2, h5{
     margin-top: 3%;
 }
 ul{
-    padding-inline-start: 25%;
+    padding-inline-start: 18%;
 }
+
 /*Centrar texto y logo en pantalla pequeña*/
 @media (max-width: 768px) {
     ul {
-        padding-inline-start: 10% !important;
+        padding-inline-start: 6% !important;
       } 
+    
     img {
-      padding-inline-start: 25% !important;
+      padding-inline-start: 23% !important;
     } 
 }
