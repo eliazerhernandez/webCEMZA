@@ -30,6 +30,6 @@ img{
 }
 @media (max-width: 768px) {
     img {
-      padding-inline-start: 22% !important;
+      padding-inline-start: 21% !important;
     } 
 }

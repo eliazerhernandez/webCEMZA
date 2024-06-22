@@ -25,11 +25,11 @@ body {
 }
 
 img{
-    padding-left: 41% !important;
+    padding-left: 38.2% !important;
     margin: 2%;   
 }
 @media (max-width: 768px) {
     img {
-      padding-inline-start: 27.5% !important;
+      padding-inline-start: 20% !important;
     } 
 }
